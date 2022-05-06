@@ -1,6 +1,6 @@
-# A node backend / API , good to use as template.
+# A node REST API/Backend, good to use as template.
 
-- CRUD capabilities
+- CRUD
 
 - Using node, express, mongoose & mongodb
 
